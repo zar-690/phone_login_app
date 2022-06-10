@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567967071713",
+    "project_id": "phone-login-19750",
+    "storage_bucket": "phone-login-19750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567967071713:android:2a8e2f35f55468693426a0",
+        "android_client_info": {
+          "package_name": "com.example.phone_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567967071713-7usu89b01gth1h3knav01dh0hkbunuh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALcbEav1qRkL1uoYqH-IspOfcsAJ1ibSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567967071713-7usu89b01gth1h3knav01dh0hkbunuh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
